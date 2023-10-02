@@ -8,7 +8,6 @@ Hi, I'm Sohyun 👋
 
 <!-- INTRODUCTION -->
 - 🔭 I’m currently interested in _NLP for Korean and Japanese_ and _its applications_.
-- 🌱 I’m currently learning _NLP_ with _knowledge graphs_.
 - 📫 How to reach me: 
 <a href="mailto:sohyun.sim27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sohyun-sim-6487b71b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
